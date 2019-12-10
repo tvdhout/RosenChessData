@@ -1,7 +1,7 @@
 # RosenChessData
 Playing around with Eric Rosen's chess game data from lichess
 
-How to open:
+### How to open:
 
 required:
 - Python 3.*
